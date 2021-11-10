@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aysegül</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
+![giphy](https://user-images.githubusercontent.com/34400358/141158013-23a61ee4-5e59-4afd-9632-87f8d153a495.gif)
 
 
 - 🌱 I’m currently learning **React.js**
