@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://aysegult.medium.com/](https://aysegult.medium.com/)
 
-- 💬 Ask me about **react, react native, vue.js html, css**
+- 💬 Ask me about **react, react native, vue.js, html, css**
 
 - 📫 How to reach me **aysegultopyurek@outlook.com**
 
