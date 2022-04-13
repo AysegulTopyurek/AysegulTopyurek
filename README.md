@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Vue 3**
+- 🌱 I’m currently working with **React Native**
 
 - 📝 I regularly write articles on [https://aysegult.medium.com/](https://aysegult.medium.com/)
 
